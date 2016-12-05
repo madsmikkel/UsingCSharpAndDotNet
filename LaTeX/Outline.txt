@@ -1,0 +1,9 @@
+Part 1: A Beginner's Guide to C#
+
+Part 2: Getting Started With .NET Develompment
+
+Part 3: In Depth With C#
+
+Part 4: Professional Software Development Using C# and .NET
+
+Part 5: Perspectives In Programming
